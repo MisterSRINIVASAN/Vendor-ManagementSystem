@@ -115,7 +115,7 @@ uvicorn main:app --reload
 ## 👨‍💻 Author
 
 **Srinivasan Balaji**
-📧 [Your Email]
+📧 kbcsrinivasan@gmail.com
 🔗 GitHub: https://github.com/MisterSRINIVASAN
 
 ---
